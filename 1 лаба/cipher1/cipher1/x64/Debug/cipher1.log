@@ -1,0 +1,7 @@
+﻿  cipher1.cpp
+C:\Users\user\Desktop\тест\cipher1\cipher1.cpp(151,34): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\user\Desktop\тест\cipher1\cipher1.cpp(160,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\Desktop\тест\cipher1\cipher1.cpp(198,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\тест\cipher1\cipher1.cpp(236,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\тест\cipher1\cipher1.cpp(655,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  cipher1.vcxproj -> C:\Users\user\Desktop\тест\cipher1\x64\Debug\cipher1.exe

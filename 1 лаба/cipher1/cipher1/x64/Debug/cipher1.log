@@ -1,0 +1,5 @@
+﻿  cipher1.cpp
+C:\Users\user\Desktop\Epstein-cipher\1 лаба\cipher1\cipher1.cpp(23,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Epstein-cipher\1 лаба\cipher1\cipher1.cpp(23,13): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\user\Desktop\Epstein-cipher\1 лаба\cipher1\x64\Debug\cipher1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  cipher1.vcxproj -> C:\Users\user\Desktop\Epstein-cipher\1 лаба\cipher1\x64\Debug\cipher1.exe
